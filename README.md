@@ -1,10 +1,10 @@
 # dataset
 
-plant-01-----Commelina-communis (408)
-          |
-          |--Cosmos (459)
-          |
-          |--Dandelion (419)
+plant-01-----Commelina-communis (408)  
+          |  
+          |--Cosmos (459)  
+          |  
+          |--Dandelion (419)  
           |
           |--Pansy (501)
 
