@@ -1,6 +1,6 @@
 # dataset
 
-plant-01
+plant-01  
 　|  
 　|--Commelina-communis (408)  
 　|  
@@ -11,7 +11,7 @@ plant-01
 　|--Pansy (501)  
   
 plant-02  
-　|
+　|  
 　|--Asterales (260)  
 　|  
 　|--Caryophyllales (381)  
@@ -23,7 +23,7 @@ plant-02
 　|--Ranunculales (342)  
   
 cat  
-　|
+　|  
 　|--American-shorthair (414)  
 　|  
 　|--Russian-blue (350)  
@@ -67,7 +67,7 @@ bird
 　|--Piciformes (466)  
   
 Fassion  
-　|
+　|  
 　|--Denim (249)  
 　|  
 　|--Formal-dresses (300)  
