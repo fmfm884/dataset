@@ -1,6 +1,6 @@
 # dataset
 
-### plant-01  
+### Plant-01  
 　|  
 　|--Commelina-communis (408)  
 　|  
@@ -9,8 +9,6 @@
 　|--Dandelion (419)  
 　|  
 　|--Pansy (501)  
-  
-### plant-02  
 　|  
 　|--Asterales (260)  
 　|  
@@ -22,7 +20,7 @@
 　|  
 　|--Ranunculales (342)  
   
-### cat  
+### Cat  
 　|  
 　|--American-shorthair (414)  
 　|  
@@ -30,7 +28,7 @@
 　|  
 　|--Scottish-fold (369)  
   
-### dog  
+### Dog  
 　|  
 　|--Chihuahua (335)  
 　|  
@@ -38,7 +36,7 @@
 　|  
 　|--Toy-poodle (365)  
   
-### color  
+### Color  
 　|    
 　|--Black (111)  
 　|  
@@ -50,7 +48,7 @@
 　|  
 　|--Purple (103)  
   
-### bird  
+### Bird  
 　|  
 　|--Accipitriformes (227)  
 　|  
