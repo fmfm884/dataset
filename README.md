@@ -1,6 +1,6 @@
 # dataset
 
-### Plant-01  
+### Plant  
 　|  
 　|--Commelina-communis (408)  
 　|  
