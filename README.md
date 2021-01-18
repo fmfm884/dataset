@@ -94,9 +94,9 @@
 　|  
 　|--Jump (206)  
 　|  
-　|--Running (251)
-　|
-　|--Sitting (482)
+　|--Running (251)  
+　|  
+　|--Sitting (482)  
 　|  
 　|--Walk (293)  
 　|  
