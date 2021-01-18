@@ -98,22 +98,22 @@
 　|
 　|--Sitting (482)
 　|  
-　|--Walk (293)
+　|--Walk (293)  
 　|  
-　|--man ()
-　|
-　|--tri_climb (500)
-　|
-　|--tri_jump (206)
-　|
-　|--tri_run (251)
-　|
-　|--tri_sit (482)
-　|
-　|--tri_sleep (253)
-　|
-　|--tri_walk (293)
-　|
-　|--woman ()
+　|--man ()  
+　|  
+　|--tri_climb (500)  
+　|  
+　|--tri_jump (206)  
+　|  
+　|--tri_run (251)  
+　|  
+　|--tri_sit (482)  
+　|  
+　|--tri_sleep (253)  
+　|  
+　|--tri_walk (293)  
+　|  
+　|--woman ()  
 
 
