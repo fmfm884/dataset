@@ -79,6 +79,41 @@
 　|--Wedding-dresses (388)  
 　|  
 　|--Yogapants (217)  
-
+ 
+ ### Person  
+　|  
+　|--Bicycling (377)  
+　|  
+　|--Boy ()  
+　|  
+　|--Climbing (500)  
+　|  
+　|--Girl (222)  
+　|  
+　|--Horseback_riding (228)  
+　|  
+　|--Jump (206)  
+　|  
+　|--Running (251)
+　|
+　|--Sitting (482)
+　|  
+　|--Walk (293)
+　|  
+　|--man ()
+　|
+　|--tri_climb (500)
+　|
+　|--tri_jump (206)
+　|
+　|--tri_run (251)
+　|
+　|--tri_sit (482)
+　|
+　|--tri_sleep (253)
+　|
+　|--tri_walk (293)
+　|
+　|--woman ()
 
 
